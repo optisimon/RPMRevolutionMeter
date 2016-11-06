@@ -2,6 +2,7 @@
 
 Application measuring rotation speed using minimal external hardware.
 
+More information can be found at http://optisimon.com/rpm/mic-input/gstreamer/2016/11/06/RPM-Revolution-Meter-using-mic-input/
 
 ## Description
 
