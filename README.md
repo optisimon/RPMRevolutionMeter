@@ -45,6 +45,11 @@ highlighting marker, making this hardware/software combo really neat.
   |____________|_______________|
 ```
 
+## Screenshot
+
+![Screenshot](/../screenshots/screenshots/screenshot.png?raw=true "Screenshot")
+
+
 ## Controls available in the SDL window
 
 ```
